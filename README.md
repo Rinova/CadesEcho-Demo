@@ -4,7 +4,7 @@ A dark atmospheric clicker/idle game about reconstructing signals, opening incre
 
 ## Current playtest
 
-The current Windows build is **0.1.0-demo.1**. Download the installer from the [latest release](https://github.com/Rinova/CadesEcho-Demo/releases/latest).
+The current Windows build is **0.1.0-demo.2**. Download the installer from the [latest release](https://github.com/Rinova/CadesEcho-Demo/releases/latest).
 
 - Windows 10/11, 64-bit
 - German and English
